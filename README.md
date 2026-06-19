@@ -107,4 +107,4 @@ Recommendations landed in S3, partitioned by year/month/day/hour:
 
 ## Context
 
-Completed as part of the **DeepLearning.AI Data Engineering Professional Certificate**, Course 1, Week 4 — "Building End-to-End Batch and Streaming Pipelines Based on Stakeholder Requirements." Infrastructure modules (Terraform configs, Lambda function code, source database) were pre-provisioned; pipeline execution, vector database setup, embeddings load, Lambda configuration, and the architectural analysis above were performed independently.
+Completed as part of the **DeepLearning.AI Data Engineering Professional Certificate**, "Building End-to-End Batch and Streaming Pipelines Based on Stakeholder Requirements." Infrastructure modules (Terraform configs, Lambda function code, source database) were pre-provisioned; pipeline execution, vector database setup, embeddings load, Lambda configuration, and the architectural analysis above were performed independently.
